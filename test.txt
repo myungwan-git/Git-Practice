@@ -19,3 +19,5 @@ v2 branch ~~~
 1 folder ~~
 
 1 folder -> add text
+
+1 folder -> throws 2 folder master
