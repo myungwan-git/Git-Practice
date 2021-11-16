@@ -3,9 +3,28 @@ I'm test2.txt
 20211116 11:05 modify . 
 
 master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
-Practice2 folder com1 branch pull -> Practice2 folder switch com2 branch ->
-THIS IS BAD REQUEST !!!! 
+awdwasfasfsafTHIS IS BAD REQUEST !!!! 
 master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
+Practice2 folder com2 rebase in com1 branch
+
+THIS IS BAD REQUEST !!!! 
+
+I'm test2.txt
+
+20211116 11:05 modify . 
+
+master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
+awfasfawgfawfasfasfTHIS IS BAD REQUEST !!!! 
+master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
+Practice2 folder com2 rebase in com1 branch
+
+THIS IS BAD REQUEST !!!! 
+
+I'm test2.txt
+I'm test2.txt
+
+20211116 11:05 modify . 
+ice2 folder com2 branch pull(com1 branch) ->
 Practice2 folder com2 rebase in com1 branch
 
 THIS IS BAD REQUEST !!!! 
@@ -17,42 +36,19 @@ I'm test2.txt
 master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
 Practice2 folder com1 branch pull -> Practice2 folder switch com2 branch ->
 THIS IS BAD REQUEST !!!! 
+wafasfawsfawsfawsf
 master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
 Practice2 folder com2 rebase in com1 branch
 
 THIS IS BAD REQUEST !!!! 
 
-I'm test2.txt
 
 20211116 11:05 modify . 
 
 master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
 Practice2 folder com1 branch pull -> Practice2 folder switch com2 branch ->
 THIS IS BAD REQUEST !!!! 
-master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
-Practice2 folder com2 rebase in com1 branch
-
-THIS IS BAD REQUEST !!!! 
-
-I'm test2.txt
-
-20211116 11:05 modify . 
-
-master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
-Practice2 folder com1 branch pull -> Practice2 folder switch com2 branch ->
-THIS IS BAD REQUEST !!!! 
-master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
-Practice2 folder com2 rebase in com1 branch
-
-THIS IS BAD REQUEST !!!! 
-
-I'm test2.txt
-
-20211116 11:05 modify . 
-
-master -> com1 branch merge -> Practice2 folder branch add com2 branch -> 
-Practice2 folder com1 branch pull -> Practice2 folder switch com2 branch ->
-THIS IS BAD REQUEST !!!! 
+wafasfawsfawsfawsf
 master modify -> com1 branch merge -> Practice2 folder com2 branch pull(com1 branch) ->
 Practice2 folder com2 rebase in com1 branch
 
